@@ -1,0 +1,17 @@
+.form {
+    width: 22%;
+    margin: 0 auto;
+}
+.form input {
+    width: 100%;
+    padding: 9px;
+}
+.form p {
+    text-align: center;
+}
+.form button {
+    padding: 9px;
+    background: #c43630;
+    border: none;
+    color: white;
+}
